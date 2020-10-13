@@ -1,4 +1,4 @@
-package question_replaceSpaces;
+package question3_replaceSpaces;
 
 public class Method1 {
     // API
